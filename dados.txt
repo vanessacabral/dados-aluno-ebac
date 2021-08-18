@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vanessa Cabral
+-Profissão: Jornalista
+-Cidade: São Paulo
+-O que faz nas horas vaga: guio meditações como voluntária
+-Feedback sobre o curso Qualidade de Software: O conteúdo é excelente. Só sinto falta de conhecer e trocar ideias com os colegas de turma.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito boa. Só tem um bug de nem sempre identificar que a aula foi concluída e, assim, não se consegue passar para aula seguinte, que fica bloqueada.
 
 Obrigado!!!
 
